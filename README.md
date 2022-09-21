@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smarc99
 - 👀 I’m interested in everything based around programming.
 - 🌱 I’m currently learning kotlin and javascript.
-- 📫 How to reach me go on atzen.berlin
+- 📫 How to reach me go on smarc.dev
 
 <!---
 smarc99/smarc99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
